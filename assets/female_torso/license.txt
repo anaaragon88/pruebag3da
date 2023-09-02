@@ -1,0 +1,11 @@
+Model Information:
+* title:	Female Torso
+* source:	https://sketchfab.com/3d-models/female-torso-6e57de8000ad42c6a842413e647d02b8
+* author:	Paspro360 (https://sketchfab.com/paspro360)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Female Torso" (https://sketchfab.com/3d-models/female-torso-6e57de8000ad42c6a842413e647d02b8) by Paspro360 (https://sketchfab.com/paspro360) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,771 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 8495,
+      "max": [
+        23.400400161743164,
+        12.926264762878418,
+        36.01493453979492
+      ],
+      "min": [
+        -2.471282482147217,
+        0.09916561096906662,
+        -20.937490463256836
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 101940,
+      "componentType": 5126,
+      "count": 8495,
+      "max": [
+        0.9994842410087585,
+        0.9989722371101379,
+        0.9996584057807922
+      ],
+      "min": [
+        -0.9999863505363464,
+        -0.999574601650238,
+        -0.9994207620620728
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 8495,
+      "max": [
+        0.9953044652938843,
+        0.770114004611969
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 40566,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 203880,
+      "componentType": 5126,
+      "count": 1936,
+      "max": [
+        5.420271873474121,
+        10.496659278869629,
+        -20.450117111206055
+      ],
+      "min": [
+        -16.625551223754883,
+        -3.42897629737854,
+        -22.8848876953125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 227112,
+      "componentType": 5126,
+      "count": 1936,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 67960,
+      "componentType": 5126,
+      "count": 1936,
+      "max": [
+        0.99853515625,
+        0.9192628264427185
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 162264,
+      "componentType": 5125,
+      "count": 8232,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 250344,
+      "componentType": 5126,
+      "count": 6640,
+      "max": [
+        -9.130016326904297,
+        8.44636058807373,
+        36.06327438354492
+      ],
+      "min": [
+        -35.681495666503906,
+        0.03687749430537224,
+        -21.070234298706055
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 330024,
+      "componentType": 5126,
+      "count": 6640,
+      "max": [
+        0.9993953108787537,
+        0.9999539256095886,
+        0.9962804913520813
+      ],
+      "min": [
+        -0.9987822771072388,
+        -0.9999998211860657,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 83448,
+      "componentType": 5126,
+      "count": 6640,
+      "max": [
+        0.9880068898200989,
+        0.99853515625
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 195192,
+      "componentType": 5125,
+      "count": 31908,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 409704,
+      "componentType": 5126,
+      "count": 2881,
+      "max": [
+        -13.47014331817627,
+        7.8273725509643555,
+        25.093189239501953
+      ],
+      "min": [
+        -32.12227249145508,
+        0.5253276228904724,
+        -7.654857635498047
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 444276,
+      "componentType": 5126,
+      "count": 2881,
+      "max": [
+        0.9993913173675537,
+        0.7789679765701294,
+        0.9204277396202087
+      ],
+      "min": [
+        -0.9988194108009338,
+        -0.982759952545166,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 136568,
+      "componentType": 5126,
+      "count": 2881,
+      "max": [
+        0.99853515625,
+        0.7673279643058777
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 322824,
+      "componentType": 5125,
+      "count": 14538,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 478848,
+      "componentType": 5126,
+      "count": 336,
+      "max": [
+        20.37779998779297,
+        12.493033409118652,
+        15.484010696411133
+      ],
+      "min": [
+        1.1763827800750732,
+        1.6513546705245972,
+        -5.515261173248291
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 482880,
+      "componentType": 5126,
+      "count": 336,
+      "max": [
+        0.9875845909118652,
+        0.309734970331192,
+        0.9762967824935913
+      ],
+      "min": [
+        -0.9869154691696167,
+        0.15122990310192108,
+        -0.9512248635292053
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 159616,
+      "componentType": 5126,
+      "count": 336,
+      "max": [
+        0.34663888812065125,
+        0.99853515625
+      ],
+      "min": [
+        5.861843874299666e-06,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 380976,
+      "componentType": 5125,
+      "count": 1206,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "FarnazShahriari_ (https://sketchfab.com/FarnazShahriari_)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/two-forms-museum-sculpture-divided-circle-4bcad965c9b44f70ad231afc39a6e02e",
+      "title": "Two Forms museum sculpture (Divided Circle)"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 385800,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 162304,
+      "byteOffset": 385800,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 486912,
+      "byteOffset": 548104,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1035016,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Paint_Metallic_Orange_peel_Rustic_Grey_1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.545098,
+          0.505882,
+          0.470588,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9577051494623774
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Paint_Metallic_Orange_peel_Rustic_Grey_1_0",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.545098,
+          0.505882,
+          0.470588,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9577051494623774
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Paint_Metallic_Orange_peel_Rustic_Grey_1_1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.545098,
+          0.505882,
+          0.470588,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9577051494623774
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Paint_Metallic_Sienna_Brown_1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.603922,
+          0.196078,
+          0.0941176,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9577051494623774
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Paint_Metallic_Sienna_Brown_1_0",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.603922,
+          0.196078,
+          0.0941176,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9577051494623774
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Layer 02_Paint Metallic Orange peel Rustic Grey #1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Layer 02_Paint Metallic Orange peel Rustic Grey #1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Layer 02_Paint Metallic Orange peel Rustic Grey #1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "inside_Paint Metallic Sienna Brown #1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "inside_Paint Metallic Sienna Brown #1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 17,
+            "POSITION": 16,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "TwoForms.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        -0.19623942450748633,
+        -0.2671688764803363,
+        -0.9434568775037919,
+        0.0,
+        -0.054406584128260174,
+        0.9636497244539648,
+        -0.2615705108824241,
+        0.0,
+        0.9790454595535718,
+        -1.805464003856727e-07,
+        -0.20364181330832398,
+        0.0,
+        23.015361785888672,
+        60.808197021484375,
+        110.65055847167969,
+        1.0
+      ],
+      "name": "Active Camera"
+    },
+    {
+      "name": "Object_4"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        -0.5594731411237426,
+        -0.21814605989142555,
+        -0.7996262257548707,
+        0.0,
+        -0.12505894877649193,
+        0.9759161319262,
+        -0.17873993056148013,
+        0.0,
+        0.8193595448226936,
+        2.2481154703102302e-07,
+        -0.5732799807318392,
+        0.0,
+        101.53775024414063,
+        61.16608810424805,
+        163.9976348876953,
+        1.0
+      ],
+      "name": "Perspective"
+    },
+    {
+      "name": "Object_6"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        -20.748851776123047,
+        563.2368774414063,
+        12.347274780273438,
+        1.0
+      ],
+      "name": "Top"
+    },
+    {
+      "name": "Object_8"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        2.220446049250313e-16,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        2.220446049250313e-16,
+        0.0,
+        -3.347991943359375,
+        12.257187843322754,
+        36.24274444580078,
+        1.0
+      ],
+      "name": "Front"
+    },
+    {
+      "name": "Object_10"
+    },
+    {
+      "children": [
+        12
+      ],
+      "matrix": [
+        -1.0,
+        1.2246467991473532e-16,
+        0.0,
+        0.0,
+        1.2246467991473532e-16,
+        1.0,
+        1.2246467991473532e-16,
+        0.0,
+        1.4997597826618576e-32,
+        1.2246467991473532e-16,
+        -1.0,
+        0.0,
+        45.25885009765625,
+        3.3396873474121094,
+        3.072254180908203,
+        1.0
+      ],
+      "name": "Right"
+    },
+    {
+      "name": "Object_12"
+    },
+    {
+      "children": [
+        14
+      ],
+      "name": "Default"
+    },
+    {
+      "children": [
+        15,
+        22
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        6.140547752380371,
+        22.8848876953125,
+        4.7486443519592285,
+        1.0
+      ],
+      "name": "Two Forms (Divided Circle)"
+    },
+    {
+      "children": [
+        16,
+        18,
+        20
+      ],
+      "name": "Layer 02"
+    },
+    {
+      "children": [
+        17
+      ],
+      "name": "Layer 02"
+    },
+    {
+      "mesh": 0,
+      "name": "Layer 02_Paint Metallic Orange peel Rustic Grey #1_0"
+    },
+    {
+      "children": [
+        19
+      ],
+      "name": "Layer 02"
+    },
+    {
+      "mesh": 1,
+      "name": "Layer 02_Paint Metallic Orange peel Rustic Grey #1_0"
+    },
+    {
+      "children": [
+        21
+      ],
+      "name": "Layer 02"
+    },
+    {
+      "mesh": 2,
+      "name": "Layer 02_Paint Metallic Orange peel Rustic Grey #1_0"
+    },
+    {
+      "children": [
+        23,
+        25
+      ],
+      "name": "inside"
+    },
+    {
+      "children": [
+        24
+      ],
+      "name": "inside"
+    },
+    {
+      "mesh": 3,
+      "name": "inside_Paint Metallic Sienna Brown #1_0"
+    },
+    {
+      "children": [
+        26
+      ],
+      "name": "inside"
+    },
+    {
+      "mesh": 4,
+      "name": "inside_Paint Metallic Sienna Brown #1_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
